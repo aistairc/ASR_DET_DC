@@ -9,15 +9,15 @@ This software is licensed under the Apache License 2.0.
 
 ## Information
 
-We run this software on the following envirnment.
+This software has been tested on the following envirnment.
 
-* Windows 10.
-* MATLAB R2017b.
+* Windows 10
+* MATLAB R2017b
 * 7-Zip
 
-This software use the following programs and data.
+This software uses the following programs and data.
 
-* [J] Constrained Overcomplete Analysis Operator Learning for Cosparse Signal Modelling , with S. Nam, R. Gribonval, M. Davies, IEEE Transaction on Signal Processing, Vol. 61, No. 9, pp 2341-2355, 2013.
+* M. Yaghoobi, S. Nam, R. Gribonval, M. E. Davies, "Constrained overcomplete analysis operator learning for cosparse signal modelling," _IEEE Transaction on Signal Processing_, vol. 61, no. 9, pp 2341–2355, 2013.
     * http://www.mehrdadya.com/
 * The Extended Yale Face Database B
     * http://vision.ucsd.edu/~iskwak/ExtYaleDatabase/ExtYaleB.html
@@ -25,12 +25,11 @@ This software use the following programs and data.
     * http://www.cs.technion.ac.il/~ronrubin/software.html
 
 
-## How to run.
+## How to run
 
-1. Run setup.ps1 with Windows PowerShell.
-2. Expand CAOLv1.tar.gz with 7-Zip.
-3. Copy the following file to current working directory from expanded CAOLv1.tar.gz.
-    * ProjUNColBall.m
-4. Open main.m with MATLAB.
-5. Run main.
-
+1. Run `setup.ps1` with Windows PowerShell.
+2. Expand `CAOLv1.tar.gz` with 7-Zip.
+3. Copy the following file to current working directory from the expanded `CAOLv1.tar.gz`.
+    * `ProjUNColBall.m`
+4. Open `main.m` with MATLAB.
+5. Run `main`.
