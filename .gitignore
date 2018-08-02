@@ -1,0 +1,14 @@
+*.asv
+
+ksvdbox9/
+ksvdbox9.zip
+normcols.m
+normrows.m
+
+CAOLv1.0/
+CAOLv1.0.tar.gz
+ProjUNColBall.m
+
+CroppedYale/
+CroppedYale.zip
+*.pgm
